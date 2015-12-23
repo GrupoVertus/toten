@@ -1,0 +1,70 @@
+HOME ------------------------------------------------------------------------------------------
+	FILTRO DE PESQUISA PARA O CLIENTE.
+	FILTROS - SEGMENTOS/LOJAS.
+	BANNER COM AS CAMPANHAS EM VIGOR.
+	INFORMAÇÕES SOBRE HORÁRIO/DIAS DE FUNCIONAMENTO.
+	INFORMAÇÕES SOBRE ENDEREÇO, SOBRE WIFI.
+	INFORMAÇÕES SOBRE 'SAC'.
+O SHOPPING --------------------------------------------------------------------------------
+	TEXTO SOBRE O PRAIA MAR SHOPPING E O GRUPO MENDES.
+	LINK PARA FOTOS DO SHOPPING.
+LOJAS -----------------------------------------------------------------------------------------
+	FILTRO DE PESQUISA DE LOJAS EM ORDEM ALFABÉTICA.
+	LINK PARA CADA TIPO DE SEGMENTO.
+TOUR VIRTUAL ------------------------------------------------------------------------------
+	PRAÇA DE ALIMENTAÇÃO - MOSTRA FOTO DA MESMA.
+	PRAÇA CENTRAL - MOSTRA FOTO DA MESMA.
+	LOUNGE - MOSTRA FOTO DA MESMA.
+	CORREDORES - MOSTRA FOTO DA MESMA.
+ALIMENTAÇÃO ----------------------------------------------------------------------------
+	TEXTO QUE FALA SOBRE A PRAÇA DE ALIMENTAÇÃO.
+	BANNER DE IMAGENS DE COMIDA.
+	(PODERIA SER INCREMENTADO LISTA DE LOJAS DE COMIDA).
+CINEMA -------------------------------------------------------------------------------------
+	TEXTO PARA ENVOLVER O CLIENTE NA PROGRAMAÇÃO.
+	LINK QUE REDIRECIONA PARA O SITE DO CINEMA.
+SERVIÇOS ----------------------------------------------------------------------------------
+	LISTA DE SERVIÇOS QUE VC ENCONTRA NO SHOPPING (COM 
+	ICONES QUE ILUSTRÃO ISSO INTUITIVAMENTE).
+	SERVIÇOS:
+		AMBULATÓRIO/ESTACIONAMENTO VIP/BANCOS/
+		FRALDÁRIO/WI-FI NA PRAÇA DE ALIMENTAÇÃO/
+		DISPONIBILIDADE DE CADEIRAS DE RODAS.
+	LISTA DE LOJAS:
+		CONSERTO DE ROUPAS/LOTÉRICA/PODÓLOGO/
+		MANICURE/DEPILAÇÃO/FARMÁCIA/AGÊNCIA DE
+		TURISMO/CÂMBIO/HIPERMERCADO.
+	* CADA ITEM DA LISTA DE LOJAS REDIRECIONA PARA O LINK 
+	DA LOJA CLICADA.
+LAZER ----------------------------------------------------------------------------------------
+	LISTA COM AS OPÇÕES DE LAZER ENCONTRADAS NO SHOPPING.
+	LISTA COM ICONES INTUITIVOS.
+	LISTA:
+		CINEMA/RECREAÇÃO INFANTIL/WI-FI/PRAÇA DE 
+		ALIMENTAÇÃO.
+	* LINKS NÃO REDIRECIONAVEIS.
+ACONTECE ---------------------------------------------------------------------------------
+	NOTÍCIAS SOBRE DESTAQUES DO SHOPPING ATUAIS E UM LINK 
+	PARA NOTICIAS ANTERIORES.
+VITRINE ---------------------------------------------------------------------------------------
+	PÁGINA INUTIL ONDE FALA SOBRE UM DESTAQUE, OU SEJA,
+	TORNA A REPETIR O LINK ANTERIOR. (ACHAR FUNCIONALIDADE).
+INAUGURAÇÕES --------------------------------------------------------------------------
+	LOJAS INAUGURADAS - COM FOTO E INFORMAÇÕES.
+FASHION ------------------------------------------------------------------------------------
+	FALA SOBRE 'PRAIA MAR FASHION DAY' DIA EXCLUSIVO DE 
+	UMA CAMPANHA DO SHOPPING.
+	VIDEOS E FOTOS.
+FAST PASS ----------------------------------------------------------------------------------
+	PÁGINA FALA SOBRE CARTÃO FAST PASS UM CARTÃO QUE 
+	DESCONTOS E VANTAGENS NO SHOPPING.
+CLUBINHO --------------------------------------------------------------------------------
+	NÃO FUNCIONOU NO MOZILLA.
+	JOGUINHO LEGAL, MAS BUGADO.
+COMERCIALIZAÇÃO ------------------------------------------------------------------
+	LOJAS - LINK PARA CONTATO.
+	MERCHANDISING E QUIOSQUE - LINK PARA CONTATO.
+CENTRAL DE ATENDIMENTO --------------------------------------------------------
+	DÚVIDAS E COMENTÁRIOS E SUGESTÕES - LINK PARA CONTATO.
+	CURRÍCULO - LINK PARA CONTATO (COM MAIS FIRULAS, EX:
+	SUBIR CURRICULO ENTRE OUTROS).
