@@ -39,20 +39,22 @@ body{
     font-family: text;
 }
 .menu{
-    width: 80%;
+    width: 100%;
     background-color: #D3D3D3;
     opacity: 0.7;
-    margin-left: 10%;
-    overflow: hidden;
+    padding-left: 5%;
+    overflow: auto;
     border-radius: 18px;
     margin-top: 2%;
     padding-bottom: 2%;
+    height: 1050px;
 }
 .icons{
     position: relative;
     float: left;
     margin-left: 3.2%;
     margin-top: 2%;
+    padding-bottom: 5%;
     border-radius: 4px;
     transition: 0.8s;
 }
@@ -63,6 +65,45 @@ body{
     transition: 0.8s;
 }
 .logo{
-    margin-top: 20%;
+    margin-top: 10%;
     margin-left: 45%;
+}
+.menu-mapa {
+    width: 100%;
+}
+.menu-mapa p {
+    width: 20%;
+    height: 700px;
+    background: #FFF;
+    color: #333;
+    text-align: center;
+    float: left;
+}
+.menu-mapa iframe {
+    float: left;
+    width: 70%;
+    height: 700px;
+}
+.menu-lojas {
+    float: left;
+    width: 90%;
+}
+.menu-lojas iframe {
+    width: 100%;
+    height: 258px;
+    margin-bottom: -10px;
+    border: 0px;
+}
+.menu-servicos {
+
+}
+.menu-cinema {
+    float: left;
+    width: 90%;
+}
+.menu-cinema iframe {
+    width: 100%;
+    height: 650px;
+    margin-bottom: -10px;
+    border: 0px;
 }
