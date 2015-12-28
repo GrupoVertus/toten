@@ -53,7 +53,7 @@
 <body>
 <!-- Player De Video -->
 <div>
-    <iframe width="100%" height="915" src="https://www.youtube.com/embed/GiJQaTZ7W_Y?autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
+    <iframe style="width: 100% !important;" width="100%" height="915" src="https://www.youtube.com/embed/GiJQaTZ7W_Y?autoplay=1&loop=1lucas" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- Fim Do Player -->
 
@@ -93,7 +93,27 @@
 
     <!-- Menu Serviços -->
     <div class="menu-servicos">
-        <p>Serviços</p>
+        <h2>Tudo que você precisa em um só lugar</h2>
+        <div><img src="servicos/"><br>Ambulatório</div>
+        <div><img src="servicos/"><br>Estacionamento VIP</div>
+        <div><img src="servicos/"><br>Bancos</div>
+
+        <div><img src="servicos/"><br>Fraldário</div>
+        <div><img src="servicos/"><br>Wi-fi na praça de alimentação</div>
+        <div><img src="servicos/"><br>Disponibilidade de cadeira de rodas</div>
+
+        <h2>O praiamar conta com várias lojas de serviços para facilitar seu dia-a-dia</h2>
+        <div><img src="servicos/"><br>Conserto de roupas e calçados</div>
+        <div><img src="servicos/"><br>Lotérica</div>
+        <div><img src="servicos/"><br>Podólogo</div>
+
+        <div><img src="servicos/"><br>Manicure</div>
+        <div><img src="servicos/"><br>Depilação</div>
+        <div><img src="servicos/"><br>Farmácia</div>
+
+        <div><img src="servicos/"><br>Agência de turismo</div>
+        <div><img src="servicos/"><br>Câmbio</div>
+        <div><img src="servicos/"><br>Hipermercado</div>
     </div>
     <!-- Fim Do Menu Serviços -->
 
