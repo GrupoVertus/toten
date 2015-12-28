@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>TOTEN</title>
     <link rel="stylesheet" type="text/css" href="_assets/_css/central.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2'></script>
     <script src="_assets/js/efeitos-menu.js"></script>
     <style>
@@ -53,7 +54,7 @@
 <body>
 <!-- Player De Video -->
 <div>
-    <iframe style="width: 100% !important;" width="100%" height="915" src="https://www.youtube.com/embed/GiJQaTZ7W_Y?autoplay=1&loop=1lucas" frameborder="0" allowfullscreen></iframe>
+    <iframe style="width: 100% !important;" width="100%" height="915" src="https://www.youtube.com/embed/GiJQaTZ7W_Y?autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- Fim Do Player -->
 
@@ -94,26 +95,44 @@
     <!-- Menu Serviços -->
     <div class="menu-servicos">
         <h2>Tudo que você precisa em um só lugar</h2>
-        <div><img src="servicos/"><br>Ambulatório</div>
-        <div><img src="servicos/"><br>Estacionamento VIP</div>
-        <div><img src="servicos/"><br>Bancos</div>
-
-        <div><img src="servicos/"><br>Fraldário</div>
-        <div><img src="servicos/"><br>Wi-fi na praça de alimentação</div>
-        <div><img src="servicos/"><br>Disponibilidade de cadeira de rodas</div>
-
+        <center>
+        <div>
+            <ul>
+                <li><img src="servicos/ambulatorio.png"><br><strong>Ambulatório</strong></li>
+                <li><img src="servicos/estacionamentoVIP.png"><br><strong>Estacionamento VIP</strong></li>
+                <li><img src="servicos/bancos.png"><br><strong>Bancos</strong></li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li><img src="servicos/fraldario.png"><br><strong>Fraldário</strong></li>
+                <li><img src="servicos/wifi.png"><br><strong>Wi-fi na praça de alimentação</strong></li>
+                <li><img src="servicos/cadeirante.png"><br><strong>Disponibilidade de cadeira de rodas</strong></li>
+            </ul>
+        </div>
         <h2>O praiamar conta com várias lojas de serviços para facilitar seu dia-a-dia</h2>
-        <div><img src="servicos/"><br>Conserto de roupas e calçados</div>
-        <div><img src="servicos/"><br>Lotérica</div>
-        <div><img src="servicos/"><br>Podólogo</div>
-
-        <div><img src="servicos/"><br>Manicure</div>
-        <div><img src="servicos/"><br>Depilação</div>
-        <div><img src="servicos/"><br>Farmácia</div>
-
-        <div><img src="servicos/"><br>Agência de turismo</div>
-        <div><img src="servicos/"><br>Câmbio</div>
-        <div><img src="servicos/"><br>Hipermercado</div>
+        <div>
+            <ul>
+                <li><img src="servicos/consertoderoupasecalcados.png"><br><strong>Conserto de roupas e calçados</strong></li>
+                <li><img src="servicos/loterica.png"><br><strong>Lotérica</strong></li>
+                <li><img src="servicos/podologo.png"><br><strong>Podólogo</strong></li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li><img src="servicos/manicure.png"><br><strong>Manicure</strong></li>
+                <li><img src="servicos/depilacao.png"><br><strong>Depilação</strong></li>
+                <li><img src="servicos/farmacia.png"><br><strong>Farmácia</strong></li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li><img src="servicos/agenciadeviagens.png"><br><strong>Agência de turismo</strong></li>
+                <li><img src="servicos/cambio.png"><br><strong>Câmbio</strong></li>
+                <li><img src="servicos/hipermercado.png"><br><strong>Hipermercado</strong></li>
+            </ul>
+        </div>
+        </center>
     </div>
     <!-- Fim Do Menu Serviços -->
 
